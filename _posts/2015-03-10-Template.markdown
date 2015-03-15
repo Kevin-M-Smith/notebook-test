@@ -1,0 +1,87 @@
+--- 
+ layout: post
+ title:  "March 11th, 2015" 
+ date:   2015-03-11 11:15:28 
+ categories: 
+ tags:
+ authors:
+ version: built encuadernador v0.2
+ 
+--- 
+  
+* In __Boston, MA__ temperatures ranged from __-3℃__ to __9℃__, with humidity between __31 - 81 %__. 
+No precipitation recorded. 
+
+* I took 3 notes on 2 manuscripts:
+
+    * M. Lefebvre, “Can rationing rules for common resources impact self-insurance decisions,” Strategic Behavior and the Environment, vol. 3, no. 3, pp. 185–222, 2013.
+
+    * A. B. Urken, “Introducing ‘Social Choice’ to Science and Engineering Students,” Teaching Political Science, vol. 5, no. 1, pp. 115–123, Oct. 1977.
+
+* I made __3__ commits to __2__ GitHub repositories:
+    * [186929ea797dd4820965b2934de7b829d5fbbdf2](https://github.com/Kevin-M-Smith/hydrogrid/commit/186929ea797dd4820965b2934de7b829d5fbbdf2) to __[hydrogrid](https://github.com/Kevin-M-Smith/hydrogrid)__
+    * [ee13f607d3e9793e238c44c7393eb21cf9d55349](https://github.com/Kevin-M-Smith/bynder/commit/ee13f607d3e9793e238c44c7393eb21cf9d55349) to __[bynder](https://github.com/Kevin-M-Smith/bynder)__
+    * [95a02ac2c99368d23fd0defd2d14b8e85d9b9af8](https://github.com/Kevin-M-Smith/bynder/commit/95a02ac2c99368d23fd0defd2d14b8e85d9b9af8) to __[bynder](https://github.com/Kevin-M-Smith/bynder)__
+
+<!--details--> 
+________________________________________________________________________________________
+
+# Table of Contents
+{:.no_toc}
+
+* Kramdown Will Build Table of Contents
+{:toc}
+
+________________________________________________________________________________________
+
+# Readings 
+
+## M. Lefebvre, “Can rationing rules for common resources impact self-insurance decisions,” Strategic Behavior and the Environment, vol. 3, no. 3, pp. 185–222, 2013.
+
+<div class="note"><a href="https://www.zotero.org/groups/kevin-m-smith/items/56BZRHB9">56BZRHB9</a></div>
+
+Check related articles. There may be something of interest here. 
+
+
+## A. B. Urken, “Introducing ‘Social Choice’ to Science and Engineering Students,” Teaching Political Science, vol. 5, no. 1, pp. 115–123, Oct. 1977.
+
+<div class="note"><a href="https://www.zotero.org/groups/kevin-m-smith/items/56BZRHB9">7QHMAG3V</a></div>
+
+
+### On Non-Proliferation
+
+> Never was there a more important time... This is the moment, we should seize it. 
+
+I think that this is an interesting take, but it is not very informative. The following questions arise: 
+
+* Who are the players?
+* What is there stake in all of this? (__page 4__)
+
+
+There seems to be a contradiction here. Investigate later... (__page 5__)
+
+
+<div class="note"><a href="https://www.zotero.org/groups/kevin-m-smith/items/56BZRHB9">56BZRHB9</a></div>
+
+### Contrarian Politics
+
+Let me outline a few points:
+
+-   This is better than that.
+-   But the other is worse...
+    -   e.g. a \> b \< c
+
+
+<div class="note"><a href="https://www.zotero.org/groups/kevin-m-smith/items/56BZRHB9">7QHMAG3V</a></div>
+
+
+### A way forward...
+
+So far the author does not appear to offer one. Perhaps look into a critique?
+
+________________________________________________________________________________________
+
+# Github Activity
+
+
+
